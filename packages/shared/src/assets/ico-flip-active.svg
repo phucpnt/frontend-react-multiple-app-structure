@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Button/FlipIcon/Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Price-Performance/Front/HoverStates" transform="translate(-1299.000000, -19.000000)">
+            <g id="Group-7">
+                <g id="Group-4">
+                    <g id="Price-Performance-Copy">
+                        <g id="Button/FlipIcon/Active" transform="translate(1300.000000, 20.000000)">
+                            <g id="FLIP">
+                                <path d="M19.5881714,9.93697143 C19.5881714,15.2678286 15.2676,19.5884 9.93674286,19.5884 C4.60645714,19.5884 0.285885714,15.2678286 0.285885714,9.93697143 C0.285885714,4.60611429 4.60645714,0.285542857 9.93674286,0.285542857 C15.2676,0.285542857 19.5881714,4.60611429 19.5881714,9.93697143 Z" id="Stroke-1" stroke="#887466" fill="#887466"></path>
+                                <path d="M6.02554286,14.3276 C5.1564,14.3276 3.35754286,9.20245714 6.83468571,8.90302857 L15.1072571,8.90302857" id="Stroke-3" stroke="#FFFFFF" opacity="0.8"></path>
+                                <polyline id="Stroke-5" stroke="#FFFFFF" opacity="0.8" points="12.3497714 11.6604571 15.1074857 8.90274286 12.3497714 6.1456"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

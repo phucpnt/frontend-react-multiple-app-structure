@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="90px" viewBox="0 0 133 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M50.271243,53.4438828 L62.5,44 L74.728757,53.4438828 L123,53.4438828 C124.104569,53.4438828 125,54.3393133 125,55.4438828 L125,124.443883 C125,125.548452 124.104569,126.443883 123,126.443883 L2,126.443883 C0.8954305,126.443883 1.3527075e-16,125.548452 0,124.443883 L0,55.4438828 C-1.3527075e-16,54.3393133 0.8954305,53.4438828 2,53.4438828 L50.271243,53.4438828 Z" id="path-1"></path>
+        <filter x="-5.6%" y="-10.9%" width="111.2%" height="117.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-3.2%" y="-7.3%" width="106.4%" height="109.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.732222577   0 0 0 0 0.732222577   0 0 0 0 0.732222577  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Earnings/Back/EASlider+Tooltip" transform="translate(-47.000000, -169.000000)">
+            <g id="Group">
+                <g id="Tooltip" transform="translate(51.000000, 127.000000)">
+                    <g id="Rectangle-17" transform="translate(62.500000, 85.221941) scale(1, -1) translate(-62.500000, -85.221941) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

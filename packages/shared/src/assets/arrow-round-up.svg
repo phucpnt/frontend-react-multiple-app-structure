@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quote-Bar/IBM" transform="translate(-1084.000000, -85.000000)">
+            <g id="Quote-Bar-IBM-V2">
+                <g id="Version-B-Quote-Bar-Default">
+                    <g id="Group-22" transform="translate(1084.000000, 45.000000)">
+                        <g id="Group-4" transform="translate(0.000000, 40.000000)">
+                            <rect id="Rectangle-4" fill="#5D705F" x="0" y="0" width="14" height="14" rx="7"></rect>
+                            <g id="Group-15" transform="translate(7.000000, 6.500000) scale(1, -1) rotate(-270.000000) translate(-7.000000, -6.500000) translate(2.000000, 3.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M0.370279532,3.51012146 L8.88500585,3.51012146" id="Stroke-7"></path>
+                                <polyline id="Stroke-9" points="6 0.405085143 9.19298246 3.46581389 6 6.78160336"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

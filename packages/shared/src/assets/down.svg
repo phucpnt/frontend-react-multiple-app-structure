@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow/Down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Quote-Bar/IBM" transform="translate(-572.000000, -110.000000)" stroke="#A35B4B">
+            <g id="Quote-Bar-IBM-V2">
+                <g id="Version-B-Quote-Bar-Default">
+                    <g id="Group-21" transform="translate(573.000000, 103.000000)">
+                        <g id="Arrow/Down" transform="translate(0.000000, 8.000000)">
+                            <g id="Group-13" transform="translate(6.500000, 9.000000) scale(1, -1) translate(-6.500000, -9.000000) ">
+                                <path d="M6,18 L6,1" id="Stroke-7"></path>
+                                <polyline id="Stroke-9" transform="translate(6.302521, 3.651261) rotate(-90.000000) translate(-6.302521, -3.651261) " points="3.21428571 -2.6512605 9.3907563 3.39915966 3.21428571 9.95378151"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

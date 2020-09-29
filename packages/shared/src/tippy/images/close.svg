@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Stroke 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.828691123" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Dropdown/CompanySearch" transform="translate(-356.000000, -27.000000)" stroke="#3F363F">
+            <g id="Company-Matches">
+                <g id="Page-1" transform="translate(357.000000, 27.000000)">
+                    <path d="M13,0 L0,13" id="Stroke-1"></path>
+                    <path d="M13,13 L0,0" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

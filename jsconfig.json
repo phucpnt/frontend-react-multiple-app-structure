@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "sub1/*": ["./packages/sub1/src/*"],
+      "sub2/*": ["./packages/sub2/src/*"],
+      "shared/*": ["./packages/shared/src/*"]
+    }
+  }
+}

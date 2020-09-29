@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="14px" viewBox="0 0 53 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Earnings/Back/EASlider+Tooltip" transform="translate(-536.000000, -157.000000)" fill="#2180A6">
+            <g id="Group">
+                <g id="Earnings-flip-side">
+                    <g id="Price-line" transform="translate(58.000000, 151.000000)">
+                        <g id="Last-Price" transform="translate(466.000000, 0.000000)">
+                            <path d="M17.6694747,20 C13.8898249,15.3333333 12,13 12,13 C12,13 13.8898249,10.6666667 17.6694747,6 L65,6 L65,20 L17.6694747,20 Z" id="Fill-1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

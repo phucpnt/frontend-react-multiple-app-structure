@@ -1,0 +1,96 @@
+/**
+* css custom checkbox_radio
+*/
+
+[type="radio"]:checked,
+[type="radio"]:not(:checked),
+[type="checkbox"]:checked,
+[type="checkbox"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label,
+[type="checkbox"]:checked + label,
+[type="checkbox"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 15px;
+    cursor: pointer;
+    line-height: 1em;
+    display: inline-block;
+    margin-right: 15px;
+}
+[type="radio"]:checked[disabled] + label,
+[type="radio"]:not(:checked)[disabled] + label,
+[type="checkbox"]:checked[disabled] + label,
+[type="checkbox"]:not(:checked)[disabled] + label {
+    cursor: default;
+}
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: calc(50% - 5px);
+    width: 10px;
+    height: 10px;
+    border: 1px solid var(--n1);
+    border-radius: 100%;
+    background: #fff;
+}
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+    content: '';
+    width: 6px;
+    height: 6px;
+    background: var(--n1);
+    position: absolute;
+    top: calc(50% - 3px);
+    left: 2px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+[type="checkbox"]:checked + label:before,
+[type="checkbox"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: calc(50% - 5px);
+    width: 10px;
+    height: 10px;
+    border: 1px solid var(--n1);
+    border-radius: 1px;
+    background: #fff;
+}
+[type="checkbox"]:checked + label:before {
+    background: #000;
+}
+[type="checkbox"]:checked + label:after,
+[type="checkbox"]:not(:checked) + label:after {
+    content: '';
+    position: absolute;
+    top: calc(50% - 2px);
+    left: 2px;
+    width: 6px;
+    height: 3px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+[type="radio"]:not(:checked) + label:after,
+[type="checkbox"]:not(:checked) + label:after {
+    opacity: 0;
+    /* -webkit-transform: scale(0);
+    transform: scale(0); */
+}
+[type="radio"]:checked + label:after,
+[type="checkbox"]:checked + label:after {
+    opacity: 1;
+    /* -webkit-transform: scale(1);
+    transform: scale(1); */
+}
